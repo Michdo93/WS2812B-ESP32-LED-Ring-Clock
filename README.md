@@ -49,6 +49,8 @@ Ein Do-It-Yourself (DIY) Uhr-Projekt basierend auf einem **60-LED WS2812B Ring**
      (5V am LED Ring)                       (GND am LED Ring)
 ```
 
+![LED Clock](https://github.com/Michdo93/WS2812B-ESP32-LED-Ring-Clock/blob/main/led_clock.jpeg?raw=true)
+
 ### Pin-Mapping
 
 | Bauteil | Pin am Bauteil | Verbindet mit | ESP32 Pin / Anmerkung |
